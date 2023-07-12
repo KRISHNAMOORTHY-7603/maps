@@ -1,0 +1,33 @@
+.container1{
+    margin:  50px 50px;
+}
+img{
+    width: 50%;
+    height: 100px;
+    border-radius: 20px;
+}
+
+body{
+    background-color: yellow;
+display: block;
+text-align: center;
+}
+label{
+display: block;
+margin: 10px;
+}
+input{
+    border-radius: 25px;
+}
+.container{
+background-color: green;
+border-radius: 25px;
+margin: 90px 600px;
+
+color: white;
+
+}
+button{
+    background-color: white;
+    margin: 10px;
+}
